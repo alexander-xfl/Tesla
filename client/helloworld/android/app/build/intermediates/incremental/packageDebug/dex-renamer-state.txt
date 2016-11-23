@@ -1,0 +1,7 @@
+#Sat Nov 19 22:05:56 CST 2016
+base.0=/Users/alex/RNPro/helloworld/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9f3597a9516f768dbfaef4bee9576678010e9ca5
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/alex/RNPro/helloworld/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_dcd256a16aef34baa0ed2a411a53b3b81675a6fe/classes.dex
+base.1=/Users/alex/RNPro/helloworld/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_dcd256a16aef34baa0ed2a411a53b3b81675a6fe
+file.0=/Users/alex/RNPro/helloworld/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9f3597a9516f768dbfaef4bee9576678010e9ca5/classes.dex
