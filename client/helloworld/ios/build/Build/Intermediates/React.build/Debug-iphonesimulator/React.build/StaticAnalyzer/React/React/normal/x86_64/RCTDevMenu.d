@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/alex/RNPro/helloworld/node_modules/react-native/React/Modules/RCTDevMenu.m \
+  /Users/alex/RNPro/helloworld/node_modules/react-native/React/Modules/RCTDevMenu.h \
+  /Users/alex/RNPro/helloworld/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/alex/RNPro/helloworld/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/alex/RNPro/helloworld/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/alex/RNPro/helloworld/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/alex/RNPro/helloworld/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/alex/RNPro/helloworld/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/alex/RNPro/helloworld/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/alex/RNPro/helloworld/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/alex/RNPro/helloworld/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/alex/RNPro/helloworld/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/alex/RNPro/helloworld/node_modules/react-native/React/Base/RCTKeyCommands.h \
+  /Users/alex/RNPro/helloworld/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/alex/RNPro/helloworld/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/alex/RNPro/helloworld/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/alex/RNPro/helloworld/node_modules/react-native/React/Modules/RCTSourceCode.h \
+  /Users/alex/RNPro/helloworld/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/alex/RNPro/helloworld/node_modules/react-native/React/Base/RCTWebSocketProxy.h \
+  /Users/alex/RNPro/helloworld/node_modules/react-native/React/Base/RCTWebSocketProxyDelegate.h
